@@ -1,0 +1,29 @@
+body {
+	background-image: url(header.jpg), url(bg.png);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+img {
+	float: left;
+}
+h1 {
+	font-family: arial
+}
+
+h2 {
+	font-family: arial ;
+}
+
+p {
+	font-family: arial ;
+}
+
+a {
+	color: white ;
+	text-decoration: none;
+}
+#b {
+	margin-left: auto;
+	margin-right: auto;	
+	width: 40%;
+}
